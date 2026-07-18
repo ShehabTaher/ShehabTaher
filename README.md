@@ -60,12 +60,14 @@ Results-oriented Front End Web Developer with 3 years of experience designing an
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-## GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=shehabtaher&show_icons=true&locale=en&theme=default" alt="Shehab's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehabtaher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" width="49%" />
-</p>
+<!--
+  NOTE: The stats above rely on the free shared instance of github-readme-stats,
+  which is frequently rate-limited and may show as broken links.
+  For a permanent fix, deploy your own instance:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Then replace "github-readme-stats.vercel.app" above with your own Vercel URL.
+-->
 
 ## Connect With Me
 
