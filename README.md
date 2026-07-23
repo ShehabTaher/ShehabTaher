@@ -14,7 +14,7 @@ Results-oriented Front End Web Developer with 3 years of experience designing an
 - 💼 Front End Web Developer @ **United Ofoq Company**
 - 🌱 Currently deepening my expertise in **React.js** & **Next.js**
 - 💬 Happy to talk about **Node.js**, **API integration**, and **performance optimization**
-- 📄 [View my resume](https://drive.google.com/file/d/1-8CGE-IJpk8Na8uYl8q8XyCByE5kjs3m/view?usp=share_link)
+- 📄 [View my resume]([https://drive.google.com/file/d/1-8CGE-IJpk8Na8uYl8q8XyCByE5kjs3m/view?usp=share_link](https://drive.google.com/file/d/1phdNTLhgiW6E8Tz3kwoZQMA95svM-gza/view?usp=drive_link))
 - 📫 Reach me at **shehab.taher93@gmail.com**
 
 ## Experience
